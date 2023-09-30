@@ -1,1 +1,0 @@
-Learning project to be build with React, Material UI.
